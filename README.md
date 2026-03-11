@@ -1,20 +1,20 @@
-customer_id --> Id Customer
-age --> Umur Customer
-occupation_status --> status pekerjaan
-years_employed --> lama bekerja
-annual_income --> jumlah pemasukan tahunan (dalam dolar)
-credit_score --> skor kredit, semakin tinggi semakin mudah di approve
-credit_history_years --> catatan kredit sebelumnya
-savings_assets --> aset tabungan
-current_debt --> utang saat ini
-defaults_on_file --> gagal bayar
-delinquencies_last_2yrs --> catatan kol 2 tahun terakhir
-derogatory_marks --> penanda pinjaman buruk
-product_type --> tipe produk kredit
-loan_intent --> tujuan pengajuan kredit
-loan_amount --> jumlah pinjaman
-interest_rate --> suku bunga pinjaman 
-debt_to_income_ratio --> rasio pemasukan dan total utang
-loan_to_income_ratio --> rasio pemasukan dan pinjaman
-payment_to_income_ratio --> rasio pemasukan dan cicilan
+customer_id --> Id Customer, 
+age --> Umur Customer, 
+occupation_status --> status pekerjaan, 
+years_employed --> lama bekerja, 
+annual_income --> jumlah pemasukan tahunan (dalam dolar), 
+credit_score --> skor kredit, semakin tinggi semakin mudah di approve, 
+credit_history_years --> catatan kredit sebelumnya, 
+savings_assets --> aset tabungan, 
+current_debt --> utang saat ini, 
+defaults_on_file --> gagal bayar, 
+delinquencies_last_2yrs --> catatan kol 2 tahun terakhir, 
+derogatory_marks --> penanda pinjaman buruk, 
+product_type --> tipe produk kredit, 
+loan_intent --> tujuan pengajuan kredit, 
+loan_amount --> jumlah pinjaman, 
+interest_rate --> suku bunga pinjaman, 
+debt_to_income_ratio --> rasio pemasukan dan total utang, 
+loan_to_income_ratio --> rasio pemasukan dan pinjaman, 
+payment_to_income_ratio --> rasio pemasukan dan cicilan, 
 loan_status --> status approval pengajuan kredit
